@@ -18,7 +18,7 @@
 - แสดงประวัติการยืมย้อนหลัง
 
 ### ฐานข้อมูล database schema<br>
-| Syntax      | Description | Test Text     |
-| :---        |    :----:   |          ---: |
-| Header      | Title       | Here's this   |
-| Paragraph   | Text        | And more      |
+| Column      | Data type |
+| :---        |    ---:   |
+| Header      | Title       |
+| Paragraph   | Text        |
