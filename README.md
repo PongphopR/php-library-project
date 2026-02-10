@@ -22,3 +22,12 @@
 | Email       |VARCHAR(100)|
 | Phone       |VARCHAR(10) |
 | Role        |  BOOLEAN   |
+
+#### Books
+| Column      | Data type |
+| :---        |    ---:   |
+| BookID      | INT AUTO INCREMENT PRIMARY KEY|
+| BookName    |VARCHAR(200)|
+| Author      |VARCHAR(200)|
+| Category    |VARCHAR(100)|
+| Status      |ENUM('AVAILABLE','BORROWED')|
